@@ -1,0 +1,24 @@
+body{
+    margin:0;
+    padding: 0;
+}
+#main{
+    height: 100vh;
+    background-color: brown;
+    display: flex;
+}
+#left{
+    width: 67vh;
+    height: 100vh;
+    background-color: orange;
+}
+#center{
+    width: 87vh;
+    height: 100vh;
+    background-color: blanchedalmond;
+}
+#right{
+    width: 67vh;
+    height: 100vh;
+    background-color: green;
+}
